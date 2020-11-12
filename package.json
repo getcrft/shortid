@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "license": "MIT",
+  "name": "@crft/shortid",
+  "author": "CRFT",
+  "private": false,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getcrft/shortid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/getcrft/shortid/issues"
+  },
+  "homepage": "https://github.com/getcrft/shortid#readme",
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "nanoid": "^3.1.12"
+  },
+  "devDependencies": {}
+}
